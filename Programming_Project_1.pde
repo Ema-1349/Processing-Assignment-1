@@ -2,9 +2,8 @@
 // Block 1-1B
 // September 15th, 2020
 
-//Hi Mr. Pelletier! I'm not so sure if this is okay, as I dont have a robot in the 
-//scene. But I did use everything that was taught. I hope you notice the details I 
-//put in, such as the sunlight reflecting off of the clouds. Some things were hard 
+//Hi Mr. Pelletier! I used everything that was taught. I hope you notice the details 
+//I put in, such as the sunlight reflecting off of the clouds. Some things were hard 
 //to do, especially keeping track of where everything was and which pice of code 
 //worked for whom. Figuring out the co ordinates for various functions also took 
 //some time to get used to. I used alot of overlaps, such as for the birds, the 
